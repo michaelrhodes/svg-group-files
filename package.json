@@ -1,0 +1,17 @@
+{
+  "name": "svg-group-files",
+  "version": "0.0.0",
+  "description": "A command-line application that takes an SVG with multiple <g> elements and splits them into their own files.",
+  "bin": {
+    "grf": "index.js"
+  },
+  "dependencies": {
+    "arrayify": "^1.0.0",
+    "concat-stream": "^1.4.5",
+    "to-slug-case": "^0.1.2",
+    "xmldom": "^0.1.19"
+  },
+  "keywords": ["svg", "g", "split"],
+  "author": "Michael Rhodes",
+  "license": "MIT" 
+}
