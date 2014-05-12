@@ -1,6 +1,6 @@
 # svg-group-files (`grf`)
 
-svg-group-files is command-line application that takes an SVG file with multiple <g> elements and splits them into their own files. Its primary use is converting the output of Illustrator’s SaveDocsAsSVG script.
+svg-group-files is command-line application that takes an SVG file with multiple `<g>` elements and splits them into their own files. Its primary use is converting the output of Illustrator’s SaveDocsAsSVG script.
 
 ## install
 ```sh
